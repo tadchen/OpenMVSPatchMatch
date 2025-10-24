@@ -1,8 +1,8 @@
 # openMVS稠密重建
 
-## 读入空三数据
+## 1 读入空三数据
 
-### Load colmap.m3a数据
+### 1.1 Load colmap.m3a数据
 DensiPointCloud.cpp-int main(int argc, LPCTSTR *argv)
 Scene.cpp-scene.Load(OPT::strInputFileName)
 
